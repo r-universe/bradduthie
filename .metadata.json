@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gamesGA",
+    "oncran": true
+  },
+  {
+    "package": "resevol",
+    "oncran": true
+  }
+]
