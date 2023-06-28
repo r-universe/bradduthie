@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gamesGA"]
 	path = gamesGA
 	url = https://github.com/bradduthie/gamesga
-	shallow = true
-	registered = true
 [submodule "resevol"]
 	path = resevol
 	url = https://github.com/bradduthie/resevol
-	shallow = true
-	registered = true
